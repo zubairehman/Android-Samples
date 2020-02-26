@@ -1,4 +1,4 @@
-package com.iotecksolution.forgroundservice
+package com.iotecksolution.androidboilerplateproject
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
